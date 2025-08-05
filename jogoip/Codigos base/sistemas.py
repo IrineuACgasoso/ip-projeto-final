@@ -5,3 +5,5 @@ class Sistema:
 
 
 nome = 'alvaro'
+
+inimigo = 'varios'
